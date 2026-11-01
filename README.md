@@ -22,6 +22,9 @@ Open to senior roles (Head of Growth, CMO data-driven, Chief AI / Analytics Offi
 
 ### Selected work
 
+**[AI Marketing Budget Decisioning Agents](https://github.com/paolobaldriga/ai-marketing-budget-decisioning-agents)**  
+Multi-agent system that automates and explains weekly budget allocation decisions (Measurement → Allocation → Explanation → Guardrail). Built for AI-enabled marketing transformation.
+
 **[E-Commerce LTV & Attribution Framework](https://github.com/paolobaldriga/ecommerce-ltv-attribution-framework)**  
 Probabilistic lifetime value and next-euro ranking so marketing spend follows expected customer value, not last-click.
 
